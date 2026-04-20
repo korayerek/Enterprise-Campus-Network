@@ -3,6 +3,9 @@
 ## Overview
 In this project, I built a two-site enterprise campus network in Cisco Packet Tracer to simulate an HQ and Branch office environment. I wanted to practice switching, routing, redundancy, segmentation, DHCP, ACLs, and basic wireless management in a more realistic enterprise-style topology instead of doing only small isolated labs.
 
+## Topology Overview
+![Topology Overview](Koray_Erek_Enterprise_Campus.png)
+
 ## Project Goals
 The main goals of this lab were:
 - build a realistic HQ and Branch topology
